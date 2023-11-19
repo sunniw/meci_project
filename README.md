@@ -6,7 +6,7 @@ This repo gathers various short codes created for my personal projects.
 
 Constructs Cutter numbers for library materials based on input text, which helps maintaining shelf order and locating materials systematically.
 
-## FannibalCardExchange.ipynb
+## CardEx.ipynb
 - Last updated: 20223-11-19.
 
 A random matching tool for a fandom event. Applicant can sign up a number of times to be matched. The match based on the applicant's country and their willingness to be matched overseas. No two applicants will be matched more than one time.
