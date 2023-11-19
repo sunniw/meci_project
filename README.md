@@ -1,4 +1,4 @@
-# Side Projects Repo
+# Miscellaneous Small Projects Repo
 This repo gathers various short codes created for my personal projects.
 
 ## CutterTable.ipynb
